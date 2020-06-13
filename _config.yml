@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://3707.cf
+url: https://ali3707.github.io
 date_format: "ordinal"
 title: break a leg
 subtitle: "break a leg"
@@ -40,7 +40,7 @@ author: ali3707
 organization: 
 organization_url: 
 github_username: ali3707
-location: Qin, China
+location: Shanghai, China
 email: dswluck@gmail.com
 
 # ---------------- #
