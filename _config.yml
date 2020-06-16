@@ -156,3 +156,5 @@ simple_jekyll_search:
 # ---------------- #
 #      Google      #
 # ---------------- #
+
+theme: jekyll-theme-cayman
