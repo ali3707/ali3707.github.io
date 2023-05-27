@@ -60,8 +60,8 @@ email: dswluck@gmail.com
 # ---------------- #
 navs:
   -
-    href: /
-    label: 首页
+    href: /links/
+    label: 链接
 
   -
     href: /categories/
@@ -80,8 +80,8 @@ navs:
  #   label: 维基
 
   -
-    href: /links/
-    label: 链接
+    href: /
+    label: 首页
 
 #  -
  #   href: /about/
