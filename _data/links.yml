@@ -15,6 +15,13 @@
 - name: CSDN
   url: https://blog.csdn.net/oDengNi123456
   src: life
-
+  
+- name: AZURE
+  url: http://20.125.102.58:54321
+  src: life
+  
+ - name: RachNerd
+  url: https://luck4web.eu.org:8443
+  src: life
 
 
