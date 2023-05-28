@@ -49,27 +49,6 @@ permalink: /home/
     <div class="columns">
 
 
- <div class="column one-third">
-        
-> God made relatives. Thank God we can choose our friends.
-
-<ul>
-{% for link in site.data.links %}
-  {% if link.src == 'life' %}
-  <li><a href="{{ link.url }}" target="_blank">{{ link.name}}</a></li>
-  {% endif %}
-{% endfor %}
-</ul>
-
-> 友情链接
-
-<ul>
-{% for link in site.data.links %}
-  {% if link.src == 'www' %}
-  <li><a href="{{ link.url }}" target="_blank">{{ link.name}}</a></li>
-  {% endif %}
-{% endfor %}
-</ul>        </div>
 
         <div class="column two-thirds" >
             <ol class="repo-list">
@@ -126,6 +105,17 @@ permalink: /home/
         </div>
         <div class="column one-third">
             {% include sidebar-search.html %}
+
+
+
+<ul>
+{% for link in site.data.links %}
+  {% if link.src == 'life' %}
+  <li><a href="{{ link.url }}" target="_blank">{{ link.name}}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>
+
             {% include sidebar-categories-cloud.html %}
             {% include sidebar-ad.html %}
             {% include sidebar-popular-repo.html %}
