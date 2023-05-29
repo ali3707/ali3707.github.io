@@ -2,19 +2,19 @@
   
 - name: 码志
   url: http://mazhuang.org
-  src: life
+  src: www
 
 - name: 腾讯云
   url: https://service-hcdykspu-1252139077.hk.apigw.tencentcs.com/release/onemanager
-  src: life
+  src: www
 
 - name: Heroku
   url: https://createdrame5.herokuapp.com/
-  src: life
+  src: www
   
 - name: CSDN
   url: https://blog.csdn.net/oDengNi123456
-  src: life
+  src: www
   
 - name: AZURE
   url: http://20.125.102.58:54321
